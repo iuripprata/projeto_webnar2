@@ -7,4 +7,4 @@ This project has a minimal setup of Hardhat 3, without any plugins.
 The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
 
 
-TESTE DO WEB3 WEBNAR SOBRE GITHUB
+BOM DIA BOA TARDE E BOA NOITE
